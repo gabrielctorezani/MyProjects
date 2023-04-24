@@ -1,0 +1,11 @@
+O termo source não é reconhceido quando chamado para a ativação do ambiente virtual python Windown
+https://cursos.alura.com.br/forum/topico-o-termo-source-nao-e-reconhecido-241327
+
+Variavel de sistema python para funcionar o python3
+https://webmasta.org/pt/python-was-not-found-run-without-arguments-to-install-from-the-microsoft-store-or-disable-this-shortcut-from-settings-173894/
+
+O comando "python manage.py startapp Nome_do_app" não funciona
+https://cursos.alura.com.br/forum/topico-manage-py-nao-funciona-157685#:~:text=Caso%20n%C3%A3o%20apare%C3%A7a%2C%20significa%20que%20voc%C3%AA%20est%C3%A1%20tentando,nela.%20Ap%C3%B3s%20isso%2C%20copie%20o%20endere%C3%A7o%20da%20pasta%3A
+
+Sair do ambiente virtual 
+https://qastack.com.br/programming/990754/how-to-leave-exit-deactivate-a-python-virtualenv#:~:text=Como%20deixar%20%2F%20sair%20%2F%20desativar%20um%20virtualenv,exit%20%5Buser%40computer%20~%5D%24%20echo%20%24VIRTUAL_ENV%20No%20virtualenv%21%20

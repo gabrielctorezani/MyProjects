@@ -1,0 +1,30 @@
+/**
+ * 
+ */
+package ExerciciosN1;
+
+/**
+ * @author gabri
+ *
+ */
+import java.util.List;
+import java.util.ArrayList;
+
+public class EX3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Crie um programa que imprima na tela um triângulo de “*”:
+		List<List> ast;
+		List<String> txt;
+		txt = new ArrayList<String>();
+		ast = new ArrayList<List>();
+		txt.add("ksdf");
+		ast.add(txt);
+		System.out.println(ast);
+	}  
+
+}

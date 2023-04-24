@@ -1,0 +1,34 @@
+/**
+ * 
+ */
+package src;
+
+/**
+ * @author gabri
+ *
+ */
+import java.io.FileWriter;
+import java.io.PrintWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
+
+public class Arquivos {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		String pathinput = "C:\\Users\\gabri\\OneDrive - ynzws\\MyProjets\\Java\\AED2\\Arquivos\\Exercicios2.txt";
+		FileWriter path = new FileWriter(pathinput);
+		PrintWriter grava = new PrintWriter(path);
+		
+		for(int i = 0; i<100; i++) {
+			grava.printf(i+" :Teste");
+		}
+		path.close();
+	}
+
+}

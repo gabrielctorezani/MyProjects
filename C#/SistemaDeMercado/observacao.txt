@@ -1,0 +1,23 @@
+Observações;
+
+Classes:
+  - Criar classe de verificação de privilégio de usuario
+
+  - Criar OpcoesCadastroLojas() = Mostra as opções de cadastro adicional para uma loja
+
+  - Criar OpcoesCadastroProdutos() = Mostra as opções de cadastro adicional para produtos(produtos na base de dados, novos produtos...)
+
+  - Criar CadastroLojas() = Instancia um novo produto na loja
+  
+  - Endereço() --PENDENTE
+    - NovoEndereco()
+
+  - Contato() --PENDENTE
+
+  - CPFCNPJ() --PENDENTE
+
+  - Prateleira() --PENDENTE
+
+  - Caixa() --PENDENTE
+
+  - Carrinho() --PENDENTE

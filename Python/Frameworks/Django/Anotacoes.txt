@@ -1,0 +1,18 @@
+Criar ambiente virtual usando o Anaconda:
+
+- conda create -n Espaço python=2.4 (Especoficar a versão do python)
+
+Ativar o espaço:
+
+- conda activate nome_do_espaço
+- conda deactivate (Dentro do espaço)
+
+instalar o django:
+
+- pip install django
+
+Testar o servidor:
+
+- python manage.py runserver
+
+OBS:: Lembrar de entrar no prompt do anaconda dentro do terminal da IDE (vscode)

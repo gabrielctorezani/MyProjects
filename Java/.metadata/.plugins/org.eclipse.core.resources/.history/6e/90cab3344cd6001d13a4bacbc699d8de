@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package ExerciciosN1;
+
+/**
+ * @author gabri
+ *
+ */
+public class EX3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Crie um programa que imprima na tela um triângulo de “*”:
+		/*for(int i = 0; i<10;i++) {
+			for(int a=0;a<i;a++) {
+			System.out.println("*\n");
+			}
+		}*/
+		String text="*";
+		System.out.println(text*8);
+	}  
+
+}

@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package ExerciciosN1;
+
+/**
+ * @author gabri
+ *
+ */
+import java.util.List;
+import java.util.LinkedList;
+import java.util.ArrayList;
+
+public class EX3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Crie um programa que imprima na tela um triângulo de “*”:
+		List ast;
+		
+		ast = new ArrayList();
+		ast.add("cjdss");
+		System.out.println(ast);
+	}  
+
+}

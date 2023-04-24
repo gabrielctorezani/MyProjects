@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\bin\Debug\net6.0\SistemaDeMercado.exe
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\bin\Debug\net6.0\SistemaDeMercado.deps.json
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\bin\Debug\net6.0\SistemaDeMercado.runtimeconfig.json
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\bin\Debug\net6.0\SistemaDeMercado.dll
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\bin\Debug\net6.0\SistemaDeMercado.pdb
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.AssemblyInfo.cs
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.dll
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\refint\SistemaDeMercado.dll
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.pdb
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\SistemaDeMercado.genruntimeconfig.cache
+C:\Users\gabri\OneDrive - ynzws\Languages\C#\SistemaDeMercado\obj\Debug\net6.0\ref\SistemaDeMercado.dll

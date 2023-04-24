@@ -1,0 +1,3 @@
+Verificar se o ambiente virtual -venv está funcionando no vscode:
+https://oandersonbm.medium.com/usando-python-no-vs-code-com-ambiente-virtual-venv-ecef7959b652
+
